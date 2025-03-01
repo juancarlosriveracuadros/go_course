@@ -7,18 +7,14 @@
 - Compilation Speed Rust, C, C++, Java, C#
 - Run Time speed simmilar to Java or C# (VM)
 
-
 ### Compilation
 human text exampel file.go -> compiler -> machine code (Binary) .file
 
-example: 
+example:
+
 - **terminal:**
 go build -o hello tutorial_FreeCodeCamp/1_helloworld.go » ./hello (file)
 ./hello » Hello, World!
-
-### Distribution
-
-
 
 - **Free video tutorial**
 https://www.youtube.com/watch?v=un6ZyFkqFKo
