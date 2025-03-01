@@ -18,6 +18,7 @@ example:
 - **terminal:**
 
 go build -o hello tutorial_FreeCodeCamp/1_helloworld.go » ./hello (file)
+
 ./hello » Hello, World!
 
 - **static typing**
